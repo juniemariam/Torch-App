@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="app_name">Torch App</string>
+    <string name="close_btn">Close</string>
+</resources>
